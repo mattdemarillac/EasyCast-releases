@@ -1,0 +1,21 @@
+{
+  "name": "EasyCast",
+  "identifier": "com.mattmarillac.easycast.source",
+  "subtitle": "Cast web videos to your TV",
+  "description": "Source for EasyCast: an in-app browser that casts detected videos to Chromecast / Google TV.",
+  "iconURL": "https://raw.githubusercontent.com/mattdemarillac/EasyCast-releases/main/icon.png",
+  "website": "https://github.com/mattdemarillac/EasyCast-releases",
+  "apps": [
+    {
+      "name": "EasyCast",
+      "bundleIdentifier": "com.mattmarillac.easycast",
+      "developerName": "Matt de Marillac",
+      "subtitle": "Cast web videos to your TV",
+      "localizedDescription": "An in-app browser that detects videos on web pages and casts them to Chromecast / Google TV.",
+      "iconURL": "https://raw.githubusercontent.com/mattdemarillac/EasyCast-releases/main/icon.png",
+      "tintColor": "1E6BFF",
+      "versions": []
+    }
+  ],
+  "news": []
+}
