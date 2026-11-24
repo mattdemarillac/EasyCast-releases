@@ -1,0 +1,23 @@
+{
+ "version": "202611212113",
+ "groups": [
+  {
+   "name": "ads",
+   "url": "blocklist-1-ads.json",
+   "sha256": "c7362c2d196a94a66ee0c01d8956e6889ce51b32cb5668325b39c37ae65ef86f",
+   "count": 78947
+  },
+  {
+   "name": "privacy",
+   "url": "blocklist-2-privacy.json",
+   "sha256": "6ba37596a75ab94bb89c01c31ce929605ef09d15beaec85ff2e62a3cb43baa02",
+   "count": 57711
+  },
+  {
+   "name": "extras",
+   "url": "blocklist-3-extras.json",
+   "sha256": "d57dd8614b3fb36ecc8e43364b5c75bfad709f43d5e0e955ab302aa49a6d038b",
+   "count": 14945
+  }
+ ]
+}
