@@ -16,6 +16,15 @@
       "tintColor": "1E6BFF",
       "versions": [
         {
+          "version": "1.1",
+          "buildVersion": "7",
+          "date": "2026-11-24",
+          "downloadURL": "https://github.com/mattdemarillac/EasyCast-releases/releases/download/v1.1/EasyCast.ipa",
+          "size": 6053176,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Safari user agent, harder-to-detect video detection, and detection inside inline web workers"
+        },
+        {
           "version": "1.0",
           "buildVersion": "4",
           "date": "2026-11-24",
@@ -25,11 +34,11 @@
           "localizedDescription": "First release"
         }
       ],
-      "version": "1.0",
+      "version": "1.1",
       "versionDate": "2026-11-24",
-      "downloadURL": "https://github.com/mattdemarillac/EasyCast-releases/releases/download/v1.0/EasyCast.ipa",
-      "size": 6052296,
-      "versionDescription": "First release"
+      "downloadURL": "https://github.com/mattdemarillac/EasyCast-releases/releases/download/v1.1/EasyCast.ipa",
+      "size": 6053176,
+      "versionDescription": "Safari user agent, harder-to-detect video detection, and detection inside inline web workers"
     }
   ],
   "news": []
