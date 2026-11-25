@@ -16,6 +16,15 @@
       "tintColor": "1E6BFF",
       "versions": [
         {
+          "version": "1.2",
+          "buildVersion": "46",
+          "date": "2026-11-25",
+          "downloadURL": "https://github.com/mattdemarillac/EasyCast-releases/releases/download/v1.2/EasyCast.ipa",
+          "size": 6266900,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Casting now works on sites that block outside access: if a video can't be fetched directly, EasyCast casts what the page itself is playing. It keeps playing when you use other apps and shows a Live Activity on the lock screen saying what is running. One set of TV controls, a spinner while a cast starts, clearer wording about what is happening, and accessibility and iPad multitasking improvements."
+        },
+        {
           "version": "1.1",
           "buildVersion": "7",
           "date": "2026-11-24",
@@ -34,11 +43,11 @@
           "localizedDescription": "First release"
         }
       ],
-      "version": "1.1",
-      "versionDate": "2026-11-24",
-      "downloadURL": "https://github.com/mattdemarillac/EasyCast-releases/releases/download/v1.1/EasyCast.ipa",
-      "size": 6053176,
-      "versionDescription": "Safari user agent, harder-to-detect video detection, and detection inside inline web workers"
+      "version": "1.2",
+      "versionDate": "2026-11-25",
+      "downloadURL": "https://github.com/mattdemarillac/EasyCast-releases/releases/download/v1.2/EasyCast.ipa",
+      "size": 6266900,
+      "versionDescription": "Casting now works on sites that block outside access: if a video can't be fetched directly, EasyCast casts what the page itself is playing. It keeps playing when you use other apps and shows a Live Activity on the lock screen saying what is running. One set of TV controls, a spinner while a cast starts, clearer wording about what is happening, and accessibility and iPad multitasking improvements."
     }
   ],
   "news": []
